@@ -1,12 +1,12 @@
-.. title:: Hycu and Nutanix
+.. title:: HYCU and Nutanix
 
 .. toctree::
    :maxdepth: 3
    :caption: HYCU
-   :name: _hycu
+   :name: _HYCU
    :hidden:
 
-   hycu/hycu
+   HYCU/HYCU
 
 .. toctree::
    :maxdepth: 3
@@ -37,9 +37,9 @@
 Getting Started
 ---------------
 
-Welcome to the Hycu and Nutanix add-on lab! This workbook accompanies an instructor-led session that introduces Nutanix and Hycu software workong together.
+Welcome to the HYCU and Nutanix add-on lab! This workbook accompanies an instructor-led session that introduces Nutanix and HYCU software workong together.
 
-You will explore using Hycu with Nutanix.
+You will explore using HYCU with Nutanix.
 
 What's New
 ++++++++++
@@ -52,7 +52,7 @@ What's New
 Agenda
 ++++++
 
-- Hycu
+- HYCU
 
 Introductions
 +++++++++++++
